@@ -1,16 +1,16 @@
 # Code Refactor Starter Code
 
-## User Story for Marketing Agency
+## Purpose
 
 * Updating the codebase to create a website that follows accessibility standards and is optimized for search engines
 
-## HTML
+## Built With
+* HTML
+* CSS
 
-* Follows accessibility standard
-* Follows semantic elements
-* Follows a logical structure independent of styling and positioning
+## Website
 
-## CSS
+## Contribution
+Made with ❤️ by Amy Rodriguez
 
-## Challenges
 
