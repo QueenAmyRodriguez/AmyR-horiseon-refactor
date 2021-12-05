@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon Refactor
 
 ## Purpose
 
@@ -9,6 +9,7 @@
 * CSS
 
 ## Website
+https://queenamyrodriguez.github.io/horiseon-refactor/
 
 ## Contribution
 Made with ❤️ by Amy Rodriguez
