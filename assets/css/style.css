@@ -1,3 +1,4 @@
+/* Universal styles start */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -24,6 +25,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
 /* navigation styles start */
 header nav {
     padding-top: 15px;
@@ -51,6 +53,7 @@ p {
     font-size: 16px;
 }
 /* header styles end */
+
 /* hero styles start */
 .hero {
     height: 800px;
@@ -68,6 +71,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
 .content img {
     max-height: 200px;
 }
@@ -90,12 +94,12 @@ p {
 /* utility syles */
 .float-left {
     float: left;
-    padding-right: 20px;
+    margin-right: 25px;
 }
 
 .float-right {
     float: right;
-    padding-left: 20px;
+    margin-left: 25px;
 }
 /* content styles end */
 
@@ -124,8 +128,8 @@ p {
     max-width: 150px;
 }
 /* benefits style ends */
-/* footer styles start */
 
+/* footer styles start */
 footer {
     padding: 30px;
     clear: both;

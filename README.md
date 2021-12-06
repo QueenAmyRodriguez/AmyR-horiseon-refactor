@@ -9,7 +9,7 @@
 * CSS
 
 ## Website
-https://queenamyrodriguez.github.io/horiseon-refactor/
+https://queenamyrodriguez.github.io/AmyR-horiseon-refactor/
 
 ## Contribution
 Made with ❤️ by Amy Rodriguez
